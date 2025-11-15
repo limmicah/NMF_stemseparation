@@ -1,0 +1,3 @@
+# Ignore NMF dataset folder containing audio stems/recordings
+NMF_data/
+
